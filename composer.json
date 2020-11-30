@@ -1,6 +1,6 @@
 {
 	"description": "POS",
-	"name": "totoprayogo/poss",
+	"name": "totoprayogo/ci-pos",
 	"type": "project",
 	"require": {
 		"php": ">=5.3.7",
